@@ -1,7 +1,0 @@
-echo "# Yoga-Pose-Detection-and-Correction" >> README.md
-Install Anaconda Navigator and setup the project in Spyder.
-Install SqlLite.
-Add the file .py files in spyder.
-create Databse as per mentioned in registration.py file
-Open Evalution.db file in SQLlite software.
-Run home.py and enjoy the application :))
